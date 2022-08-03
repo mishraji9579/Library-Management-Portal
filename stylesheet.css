@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background-image:url(images/b.jpg);
+	margin:0px;
+}
+
+.head
+{
+	font-family:"Trebuchet MS";
+	font-size:50px;
+	color:#FFF;
+	margin-left:50px;
+}
+#banner
+{
+	width:99.5%;
+	height:100px;
+	border:12px solid #FFF;
+	background-color:rgba(0,0,0,0.7);
+}
+.clg
+{
+	font-family:"Segoe UI";
+	font-size:20px;
+	color:#FF0;
+}
+#wrapper
+{
+	width:80%;
+	border-radius:60px;
+	border:14px solid #FFF;
+	background-color:rgba(0,0,0,0.7);
+}
+.SubHead
+{
+	font-family:"Segoe UI";
+	color:#FFF;
+	font-size:30px;
+}
+.labels
+{
+	font-family:"Trebuchet MS";
+	font-size:26px;
+	color:#FF3;
+}
+.fields
+{
+	font-family:"Trebuchet MS";
+	font-size:24px;
+	color:#FF3;
+	border-radius:15px;
+	padding:6px 8px;
+	border:4px solid #FF3;
+	background-color:transparent;
+}
+
+.table
+{
+	border-radius:10px;
+	padding:0px 5px;
+	border:5px solid #FF3;
+	background-color:transparent;
+}
+
+a.link:link{font-family:"Segoe UI";font-size:26px;color:#FFF;text-decoration:none;}
+a.link:active{font-family:"Segoe UI";font-size:26px;color:#FFF;text-decoration:none;}
+a.link:visited{font-family:"Segoe UI";font-size:26px;color:#FFF;text-decoration:none;}
+a.link:hover{font-family:"Segoe UI";font-size:26px;color:#F6F;text-decoration:none;}
+.msg
+{
+	font-family:"Segoe UI";
+	color:#6F6;
+	font-size:23px;
+}
+a.Command:link{text-decoration:none;font-family:"Segoe UI";color:#CFC;font-size:16px;padding:5px 7px;border:2px solid #FF0;border-radius:5px;}
+a.Command:active{text-decoration:none;font-family:"Segoe UI";color:#CFC;font-size:16px;padding:5px 7px;border:2px solid #FF0;border-radius:5px;}
+a.Command:visited{text-decoration:none;font-family:"Segoe UI";color:#CFC;font-size:16px;padding:5px 7px;border:2px solid #FF0;border-radius:5px;}
+a.Command:hover{text-decoration:none;font-family:"Segoe UI";color:#CFC;font-size:16px;padding:5px 7px;border:2px solid #F60;border-radius:5px;box-shadow:0px 0px 10px #FFFFFF;}
